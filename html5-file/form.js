@@ -6,12 +6,12 @@
         });
 
         $('#form').on('submit', function(event) {
-            // @todo write logic to check if all files matches criteria
+            // @todo task 4: write logic to check if all files matches criteria
         });
     };
 
     $p.calculateFileSize = function() {
-        // @todo write logic to calculate sizes from all inputs of type file
+        // @todo task 3: write logic to calculate sizes from all inputs of type file
     };
 
 })(form = {});
