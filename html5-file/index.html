@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+        <link rel="stylesheet" href="styles.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    </head>
+    <body>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-5 col-md-offset-3">
+                <form id="form">
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Your email address</label>
+                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter your email address">
+                    </div>
+                    <div class="form-group">
+                        <label for="fileCv">Your CV</label>
+                        <input type="file" id="fileCv">
+                        <p class="help-block"></p>
+                    </div>
+                    <div class="form-group">
+                        <label for="fileReferences">Your references</label>
+                        <input type="file" id="fileReferences">
+                        <p class="help-block"></p>
+                    </div>
+                    <div class="form-group">
+                        <label for="fileProtfolio">Your protfolio</label>
+                        <input type="file" id="fileProtfolio">
+                        <p class="help-block"></p>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Apply!</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="form.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function () {
+            form.init();
+        });
+    </script>
+    </body>
+</html>
