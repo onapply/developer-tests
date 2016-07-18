@@ -3,13 +3,14 @@
 Hi there! Welcome to onapply technical test! :sunglasses:
 
 1. [Introduction](https://github.com/onapply/developer-tests/tree/master/html5-file#introduction)
-2. [Task 1: allow form to submit files](https://github.com/onapply/developer-tests/tree/master/html5-file#task-1-allow-multiple-files)
-3. [Task 2: allow multiple files]()
-4. Task 3: calculate file size
-5. Task 4: 8MB maximum
-6. Task 5: Notify the user
-7. Task 6: list files
-8. Task 7: list files
+2. [Task 1: allow form to submit files](https://github.com/onapply/developer-tests/tree/master/html5-file#task-1-allow-form-to-submit-files)
+3. [Task 2: allow multiple files](https://github.com/onapply/developer-tests/tree/master/html5-file#task-2-allow-multiple-files)
+4. [Task 3: calculate file size](https://github.com/onapply/developer-tests/tree/master/html5-file#task-3-calculate-file-size)
+5. [Task 4: 8MB maximum](https://github.com/onapply/developer-tests/tree/master/html5-file#task-4-8mb-maximum)
+6. [Task 5: Notify the user](https://github.com/onapply/developer-tests/tree/master/html5-file#task-5-notify-user)
+7. [Task 6: list files](https://github.com/onapply/developer-tests/tree/master/html5-file#task-6-list-files)
+8. [Task 7: drag and drop](https://github.com/onapply/developer-tests/tree/master/html5-file#task-7-drag-and-drop)
+9. [how to submit your assessment]()
 
 ##Introduction
 Our goal today is going to improve a form using HTML5 features.
@@ -33,7 +34,7 @@ Ready?<br>
 Let's get started!
 
 ##Task 1: allow form to submit files
-It is currently not possible to submit files
+It is currently not possible to submit files. Add the code to allow the form to submit files.
 
 ##Task 2: allow multiple files
 It is currently not possible to upload more than one file on the "references" and "portfolio" file inputs.
@@ -59,10 +60,12 @@ The List should display the **names**, **sizes** and **mime types** of each atta
 ##Task 7: drag and drop
 Use HTML 5 to allow users to drag and drop files to all file inputs.
 
-##Send your result
+##how to submit your assessment
 When the time allowed is over please send a zip files containing all 3 files to developer-assessments@onapply.de.
 
 Don't forget to specify your first and last name in the email!
 
+Hope you had fun!
+Happy coding :beers:
 
 
