@@ -10,7 +10,7 @@ Hi there! Welcome to onapply technical test! :sunglasses:
 6. [Task 5: Notify the user](https://github.com/onapply/developer-tests/tree/master/html5-file#task-5-notify-user)
 7. [Task 6: list files](https://github.com/onapply/developer-tests/tree/master/html5-file#task-6-list-files)
 8. [Task 7: drag and drop](https://github.com/onapply/developer-tests/tree/master/html5-file#task-7-drag-and-drop)
-9. [how to submit your assessment]()
+9. [how to submit your assessment](https://github.com/onapply/developer-tests/tree/master/html5-file#how-to-submit-your-assessment)
 
 ##Introduction
 Our goal today is going to improve a form using HTML5 features.
@@ -66,6 +66,7 @@ When the time allowed is over please send a zip files containing all 3 files to 
 Don't forget to specify your first and last name in the email!
 
 Hope you had fun!
+
 Happy coding :beers:
 
 
