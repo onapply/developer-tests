@@ -27,11 +27,11 @@ Please use a browser which supports HTML5 file management (latest version of Fir
 
 You are not allowed to use any third party libraries which already have all features available.
 
-Once set up, unzip the file in your home directory and open the 3 files ([index.html](https://github.com/onapply/developer-tests/blob/master/html5-file/index.html), [styles.css](https://github.com/onapply/developer-tests/blob/master/html5-file/styles.css), [form.js](https://github.com/onapply/developer-tests/blob/master/html5-file/form.js))
+Once set up, **unzip** the file in your home directory, navigate to the **html5-file directory** and open the 3 files ([index.html](https://github.com/onapply/developer-tests/blob/master/html5-file/index.html), [styles.css](https://github.com/onapply/developer-tests/blob/master/html5-file/styles.css), [form.js](https://github.com/onapply/developer-tests/blob/master/html5-file/form.js))
 
 
 Ready?<br>
-Let's get started!
+Let's get started and may the force be with you!
 
 ##Task 1: allow form to submit files
 It is currently not possible to submit files. Add the code to allow the form to submit files.
