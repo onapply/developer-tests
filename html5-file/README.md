@@ -33,34 +33,34 @@ Once set up, **unzip** the file in your home directory, navigate to the **html5-
 Ready?<br>
 Let's get started and may the force be with you!
 
-##Task 1: allow form to submit files
+## Task 1: allow form to submit files
 It is currently not possible to submit files. Add the code to allow the form to submit files.
 
-##Task 2: allow multiple files
+## Task 2: allow multiple files
 It is currently not possible to upload more than one file on the "references" and "portfolio" file inputs.
 
 Use HTML5 to allow users to upload multiple files only on the "references" and "portfolio" file inputs.
 
-##Task 3: calculate file size
+## Task 3: calculate file size
 Once the page has been loaded the init function in the form.js is called.
 
 Write the function $p.calculateFileSize in HTML5 which will calculate the file size of all attached files (before submitting the form)
 
-##Task 4: 8MB maximum
+## Task 4: 8MB maximum
 If the sum of all attached file is greater than 8MB the user should not be able to submit the form.
 
-##Task 5: notify user
+## Task 5: notify user
 Notify the user that the maximum allowed size has been reached
 
-##Task 6: list files
+## Task 6: list files
 Use HTML 5 to allow users to see a list of files they attached to each file input.
 
 The List should display the **names**, **sizes** and **mime types** of each attached files.
 
-##Task 7: drag and drop
+## Task 7: drag and drop
 Use HTML 5 to allow users to drag and drop files to all file inputs.
 
-##how to submit your assessment
+## how to submit your assessment
 When the time allowed is over please send a zip files containing all 3 files to developer-assessments@onapply.de.
 
 Don't forget to specify your first and last name in the email!
